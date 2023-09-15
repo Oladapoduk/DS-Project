@@ -10,7 +10,7 @@ Welcome to my Data Science Projects Repository! This repository contains a colle
 ### GitHub Page 
 [![DS-Project](https://img.shields.io/badge/Data_Science_Projects-GitHub_Page-%2300BFFF.svg)](https://Oladapoduk.github.io/data_science/)
 
-## Projects https://github.com/Oladapoduk/DS-Project/tree/main/Breast%20Cancer%20Prediction
+## Projects 
 1. [Breast Cancer Prediction](https://github.com/Oladapoduk/DS-Project/tree/main/Breast%20Cancer%20Prediction) 
    - **Description:** The project predicts the diagnosis (M = malignant, B = benign) of the Breast Cancer
    - **Technologies Used:** The notebooks uses Decision Tree Classification and Logistic Regression
